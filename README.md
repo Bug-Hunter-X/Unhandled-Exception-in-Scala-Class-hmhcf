@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Scala: unhandled exceptions. The `MyClass` demonstrates a setter method that throws an `IllegalArgumentException` if a negative age is attempted.  The solution shows how to improve the code using try-catch blocks or other error handling mechanisms.
